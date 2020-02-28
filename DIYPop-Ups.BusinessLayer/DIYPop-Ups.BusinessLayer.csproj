@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>DIYPop_Ups.BusinessLayer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DIYPop-Ups.Entities\DIYPop-Ups.Entities.csproj" />
+    <ProjectReference Include="..\DIYPop-Ups\DIYPop-Ups.DataLayer.csproj" />
+  </ItemGroup>
+
+</Project>

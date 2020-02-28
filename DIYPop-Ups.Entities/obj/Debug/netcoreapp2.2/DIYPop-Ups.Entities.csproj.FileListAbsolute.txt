@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.deps.json
+C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb

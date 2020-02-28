@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>DIYPop_Ups.Entities</RootNamespace>
+  </PropertyGroup>
+
+</Project>
