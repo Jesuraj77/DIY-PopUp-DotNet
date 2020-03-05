@@ -10,5 +10,6 @@ namespace DIYPop_Ups.BusinessLayer.Interfaces
         bool Register(User user);
         bool Login(string UserName, string Password);
         bool BlockAd(int BrandId);
+        bool PostAdvertiseByUser(List<Brand> brand);
     }
 }

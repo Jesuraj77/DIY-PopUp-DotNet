@@ -11,3 +11,31 @@ C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netco
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.csproj.CopyComplete
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.dll
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.deps.json
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.csprojAssemblyReference.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.AssemblyInfoInputs.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.AssemblyInfo.cs
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.csproj.CopyComplete
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.deps.json
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.BusinessLayer\obj\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.pdb

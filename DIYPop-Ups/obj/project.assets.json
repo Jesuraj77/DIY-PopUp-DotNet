@@ -5216,26 +5216,23 @@
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DIY Pop-Ups\\DIYPop-Ups\\DIYPop-Ups.DataLayer.csproj",
+      "projectUniqueName": "\\\\CR302\\Shared Folder\\DotNet-FinalCode\\.Net DIYPop-Ups with testscript\\Code\\DIY Pop-Ups\\DIYPop-Ups\\DIYPop-Ups.DataLayer.csproj",
       "projectName": "DIYPop-Ups.DataLayer",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\DIY Pop-Ups\\DIYPop-Ups\\DIYPop-Ups.DataLayer.csproj",
+      "projectPath": "\\\\CR302\\Shared Folder\\DotNet-FinalCode\\.Net DIYPop-Ups with testscript\\Code\\DIY Pop-Ups\\DIYPop-Ups\\DIYPop-Ups.DataLayer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\DIY Pop-Ups\\DIYPop-Ups\\obj\\",
+      "outputPath": "\\\\CR302\\Shared Folder\\DotNet-FinalCode\\.Net DIYPop-Ups with testscript\\Code\\DIY Pop-Ups\\DIYPop-Ups\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -5247,8 +5244,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\DIY Pop-Ups\\DIYPop-Ups.Entities\\DIYPop-Ups.Entities.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\DIY Pop-Ups\\DIYPop-Ups.Entities\\DIYPop-Ups.Entities.csproj"
+            "\\\\CR302\\Shared Folder\\DotNet-FinalCode\\.Net DIYPop-Ups with testscript\\Code\\DIY Pop-Ups\\DIYPop-Ups.Entities\\DIYPop-Ups.Entities.csproj": {
+              "projectPath": "\\\\CR302\\Shared Folder\\DotNet-FinalCode\\.Net DIYPop-Ups with testscript\\Code\\DIY Pop-Ups\\DIYPop-Ups.Entities\\DIYPop-Ups.Entities.csproj"
             }
           }
         }
@@ -5286,16 +5283,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

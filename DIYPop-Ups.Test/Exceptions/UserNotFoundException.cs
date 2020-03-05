@@ -8,9 +8,6 @@ namespace DIYPop_Ups.Test.Exceptions
     {
         public string Messages = "User Not Found";
         
-
-        
-
         public UserNotFoundException(string message)
         {
             Messages = message;

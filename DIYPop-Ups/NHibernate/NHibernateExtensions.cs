@@ -1,9 +1,6 @@
 ﻿using FluentNHibernate.Cfg;
 using Microsoft.Extensions.DependencyInjection;
 using FluentNHibernate.Cfg.Db;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Reflection;
 using NHibernate.Cfg;
 using NHibernate.Tool.hbm2ddl;

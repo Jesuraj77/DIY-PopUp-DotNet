@@ -3,28 +3,22 @@ using DIYPop_Ups.Entities;
 using DIYPop_Ups.NHibernate;
 using DIYPop_Ups.Test.Exceptions;
 using NSubstitute;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace DIYPop_Ups.Test.TestCases
 {
     public class ExeptionTest
     {
-        private readonly UserService user_service;
-        private readonly AdvertiseService advertiser_service;
-        private readonly IMapperSession _session = Substitute.For<IMapperSession>();
+        private readonly UserService User_Service;
+        private readonly AdvertiserService Advertiser_Service;
+        private readonly IMapperSession _Session = Substitute.For<IMapperSession>();
 
         public ExeptionTest()
         {
-            user_service = new UserService(_session);
-            advertiser_service = new AdvertiseService(_session);
+            User_Service = new UserService(_Session);
+            Advertiser_Service = new AdvertiserService(_Session);
         }
-
-
-        
-
+                        
         [Fact]
         public void ExceptionTestFor_SearchingAnUser()
         {
@@ -37,22 +31,22 @@ namespace DIYPop_Ups.Test.TestCases
                 FamilyStatus = "",
                 Gender = "Female",
                 Password = "123456789",
-                Intrest = "",
+                Interest = "",
 
             };
             //Assert
-            var ex = Assert.Throws<UserNotFoundException>(() => advertiser_service.SearchUser(user));
+            var ex = Assert.Throws<UserNotFoundException>(() => Advertiser_Service.SearchUser(user));
             Assert.Equal("User Not Found", ex.Messages);
         }
 
         [Fact]
         public void ExceptionTestFor_ValidUser_InvalidPassword()
         {
-            User user = new User { Id = 1, UserName = "Mary", Age = 23, Location = "bangalore", Gender = "male", Password = "123", Intrest = "Cosmetics" };
+            User user = new User { Id = 1, UserName = "Mary", Age = 23, Location = "bangalore", Gender = "male", Password = "123", Interest = "Cosmetics" };
             //Action
             //Assert
-            var ex = Assert.Throws<InvalidCredentialsExecptions>(() => user_service.Login("abc", "987654321"));
-            var exc = Assert.Throws<InvalidCredentialsExecptions>(() => advertiser_service.Login("ab", "9876547321"));
+            var ex = Assert.Throws<InvalidCredentialsExecptions>(() => User_Service.Login("abc", "987654321"));
+            var exc = Assert.Throws<InvalidCredentialsExecptions>(() => Advertiser_Service.Login("ab", "9876547321"));
             Assert.Equal("Please enter valid usename & password", ex.Messages);
             Assert.Equal("Please enter valid usename & password", exc.Messages);
         }
@@ -62,9 +56,8 @@ namespace DIYPop_Ups.Test.TestCases
         {
             //Action
             //Assert
-            var ex = Assert.Throws<InvalidCredentialsExecptions>(() => user_service.Login("abc", "987654321"));
-            var exc = Assert.Throws<InvalidCredentialsExecptions>(() => advertiser_service.Login("ab", "9876543721"));
-
+            var ex = Assert.Throws<InvalidCredentialsExecptions>(() => User_Service.Login("abc", "987654321"));
+            var exc = Assert.Throws<InvalidCredentialsExecptions>(() => Advertiser_Service.Login("ab", "9876543721"));
 
             Assert.Equal("Please enter valid usename & password", ex.Messages);
             Assert.Equal("Please enter valid usename & password", exc.Messages);

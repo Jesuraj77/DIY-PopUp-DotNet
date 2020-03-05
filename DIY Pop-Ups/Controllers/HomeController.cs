@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
 using DIY_Pop_Ups.Models;
+using Microsoft.AspNetCore.Mvc;
 
-namespace DIY_Pop_Ups.Controllers
+namespace DIYPop_Ups.Web.Controllers
 {
     public class HomeController : Controller
     {

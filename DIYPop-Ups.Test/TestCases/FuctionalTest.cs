@@ -1,207 +1,172 @@
-﻿using DIYPop_Ups.BusinessLayer.Interfaces;
-using DIYPop_Ups.BusinessLayer.Servicess;
+﻿using DIYPop_Ups.BusinessLayer.Servicess;
 using DIYPop_Ups.Entities;
 using DIYPop_Ups.NHibernate;
 using NSubstitute;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace DIYPop_Ups.Test.TestCases
 {
     public class FuctionalTest
     {
-        private readonly UserService user_service;
-        private readonly AdvertiseService advertiser_service;
-        private readonly IMapperSession _session = Substitute.For<IMapperSession>();
+        private readonly UserService User_Service;
+        private readonly AdvertiserService Advertiser_Service;
+        private readonly IMapperSession _Session = Substitute.For<IMapperSession>();
 
         public FuctionalTest()
         {
-            user_service = new UserService(_session);
-            advertiser_service = new AdvertiseService(_session);
+            User_Service = new UserService(_Session);
+            Advertiser_Service = new AdvertiserService(_Session);
         }
+
+
+        User user = new User
+        {
+            Id = 100,
+            UserName = "Mary",
+            Age = 25,
+            Location = "Delhi",
+            FamilyStatus = "",
+            Gender = "Female",
+            Password = "123456789",
+            Interest = "",
+        };
+        Advertiser advertiser = new Advertiser
+        {
+            Id = 1,
+            UserName = "Suresh",
+            Password = "123",
+        };
+
+        Brand brand = new Brand
+        {
+            Id = 1,
+            BrandName = "cake",
+            BrandDescription = "xxx..",
+            AdvertiserId = 1,
+            Video = "",
+        };
 
         //User Testcases
         [Fact]
-        public void Test_For_Valid_Registration()
+        public void Test_For_Valid_RegistrationForUser()
         {
             //Arrange
-            User user = new User
-            {
-                Id = 100,
-                UserName = "Mary",
-                Age = 25,
-                Location = "Delhi",
-                FamilyStatus = "",
-                Gender = "Female",
-                Password = "123456789",
-                Intrest="",
-                
-            };
-
-            Advertiser advertiser = new Advertiser
-            {
-                Id = 1,
-                UserName = "Suresh",
-                Password = "123",
-            };
-
             //Action
-            var IsRegisteredFromUser = user_service.Register(user);
-            var IsRegisteredFromAdvertiser = advertiser_service.Register(advertiser);
+            var IsRegisteredFromUser = User_Service.Register(user);
 
             //Assert
             Assert.True(IsRegisteredFromUser);
+        }
+
+
+        [Fact]
+        public void TestFor_Valid_RegistrationForAdvertiser()
+        {
+            //Action
+            var IsRegisteredFromAdvertiser = Advertiser_Service.Register(advertiser);
+            //Assert
             Assert.True(IsRegisteredFromAdvertiser);
         }
 
 
         [Fact]
-        public void Test_For_Valid_SignIn()
+        public void TestFor_Valid_SignInForUser()
         {
-            //Arrange
-            User user = new User
-            {
-                Id = 100,
-                UserName = "Mary",
-                Age = 25,
-                Location = "Delhi",
-                FamilyStatus = "",
-                Gender = "Female",
-                Password = "123456789",
-                Intrest = "",
-            };
+            //Action
+            var IsLoggedFromUser = User_Service.Login(user.UserName, user.Password);
+            //Assert
+            Assert.True(IsLoggedFromUser);
+        }
 
-            Advertiser advertiser = new Advertiser
-            {
-                UserName = "suresh",
-                Password = "123"
-            };
+        [Fact]
+        public void TestFor_Valid_AdvertisePostByUser()
+        {
+            List<Brand> BrandList = new List<Brand>();
+            BrandList.Add(brand);
 
             //Action
-            var IsLoggedFromUser = user_service.Login(user.UserName, user.Password);
-            var IsLoggedFromAdvertiser = advertiser_service.Login(advertiser.UserName, advertiser.Password);
+            var isPosted = User_Service.PostAdvertiseByUser(BrandList);
+
             //Assert
-            
-            Assert.True(IsLoggedFromUser);
+            Assert.True(isPosted);
+        }
+
+        [Fact]
+        public void TestFor_Valid_SignInForAdvertiser()
+        {
+            //Action
+            var IsLoggedFromAdvertiser = Advertiser_Service.Login(advertiser.UserName, advertiser.Password);
+            //Assert
             Assert.True(IsLoggedFromAdvertiser);
         }
 
 
-
         [Fact]
-        public void Test_For_Valid_AdvertisePost()
+        public void TestFor_Valid_AdvertisePost()
         {
-            User user = new User
-            {
-                Id = 100,
-                UserName = "Mary",
-                Age = 25,
-                Location = "Delhi",
-                FamilyStatus = "",
-                Gender = "Female",
-                Password = "123456789",
-                Intrest = "",
-            };
-
+            //Arrange
             List<User> UserList = new List<User>();
             UserList.Add(user);
-
-            Brand brand = new Brand
-            {
-                Id = 1,
-                BrandName = "cake",
-                BrandDescription = "xxx..",
-                AdvertiserId = 1,
-                Video = "",
-            };
 
             List<Brand> BrandList = new List<Brand>();
             BrandList.Add(brand);
 
             //Action
-            var isPosted = advertiser_service.PostAdvertise(BrandList,UserList);
+            var isPosted = Advertiser_Service.PostAdvertise(BrandList,UserList);
 
             //Assert
-            Assert.Equal(true, isPosted);
-           
+            Assert.True(isPosted);
         }
 
-
-
         [Fact]
-        public void Test_for_BlockAd()
+        public void TestFor_BlockAd()
         {
-            Brand brand = new Brand
-            {
-                Id = 1
-            };
-
-            var block = user_service.BlockAd(brand.Id);
-
-            Assert.Equal(true, block);
-
+            var block = User_Service.BlockAd(brand.Id);
+            Assert.True( block);
         }
 
-
-
         [Fact]
-        public void Test_For_Valid_SearchUser()
+        public void TestFor_Valid_SearchUser()
         {
             //Arrange
-
-            User user = new User
-            {
-                Id = 100,
-                UserName = "Mary",
-                Age = 25,
-                Location = "Delhi",
-                FamilyStatus = "",
-                Gender = "Female",
-                Password = "123456789",
-                Intrest = "",
-            };
-
             List<User> userlist = new List<User>();
             userlist.Add(user);
 
             // Action
-            var gotUserlist = advertiser_service.SearchUser(user);
+            var gotUserlist = Advertiser_Service.SearchUser(user);
 
             //Assert
             Assert.Equal(userlist, gotUserlist);
-
-
         }
+
         [Fact]
-        public void Test_For_Valid_AgreePayment()
+        public void TestFor_Valid_AgreePayment()
         {
             //Arrange
-            User user = new User
-            {
-                Id = 100,
-                UserName = "Mary",
-                Age = 25,
-                Location = "Delhi",
-                FamilyStatus = "",
-                Gender = "Female",
-                Password = "123456789",
-                Intrest = "",
+            PaymentType payment = new PaymentType()
+            {    PayPerLike=true,
+                 PayPerView=true,
+                 PayPerClick=true
             };
-            Advertiser advertiser = new Advertiser();
-
-            PayementType payment = new PayementType();
 
             //Action
-            var IsAgreed = advertiser_service.AgreePayment(user.Id, advertiser.Id, payment);
+            var IsAgreed = Advertiser_Service.AgreePayment(user.Id, advertiser.Id, payment);
 
             //Action
-            Assert.Equal(true, IsAgreed);
             Assert.True(IsAgreed);
         }
 
-    }
+        [Fact]
+        public void TestFor_Valid_SendingMessages()
+        {
+         //Action
+         var isSent= Advertiser_Service.SendMessages(user);
 
+         //Assert
+         Assert.True(isSent);
+        }
+
+    }
 }
 

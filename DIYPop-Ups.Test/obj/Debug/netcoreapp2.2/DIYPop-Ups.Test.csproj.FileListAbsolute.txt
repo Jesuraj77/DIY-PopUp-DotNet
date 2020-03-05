@@ -18,3 +18,45 @@ C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.csproj.CopyComplete
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.dll
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.deps.json
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.runtimeconfig.json
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.runtimeconfig.dev.json
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.csprojAssemblyReference.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.csproj.CoreCompileInputs.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.AssemblyInfoInputs.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.AssemblyInfo.cs
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.csproj.CopyComplete
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.deps.json
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.runtimeconfig.json
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Test.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.BusinessLayer.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.csproj.CopyComplete
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Test\obj\Debug\netcoreapp2.2\DIYPop-Ups.Test.pdb

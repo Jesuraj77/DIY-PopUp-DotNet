@@ -5,3 +5,19 @@ C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.AssemblyInfo.cs
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.deps.json
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.csproj.CoreCompileInputs.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.AssemblyInfoInputs.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.AssemblyInfo.cs
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.deps.json
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups.Entities\obj\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb

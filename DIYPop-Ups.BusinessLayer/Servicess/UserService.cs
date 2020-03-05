@@ -17,19 +17,24 @@ namespace DIYPop_Ups.BusinessLayer.Servicess
             _session = session;
         }
 
-        public bool BlockAd(int BrandId)
+        public bool Register(User user)
         {
-            return true;
+            return false;
         }
 
         public bool Login(string UserName, string Password)
         {
-            return true;
+            return false;
         }
 
-        public bool Register(User user)
+        public bool PostAdvertiseByUser(List<Brand> brand)
         {
-            return true;
+            return false;
+        }
+
+        public bool BlockAd(int BrandId)
+        {
+            return false;
         }
     }
 }

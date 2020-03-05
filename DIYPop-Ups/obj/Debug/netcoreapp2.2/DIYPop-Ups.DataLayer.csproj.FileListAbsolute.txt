@@ -9,3 +9,27 @@ C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPo
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.csproj.CopyComplete
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
 C:\Users\Admin\source\repos\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.deps.json
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.csprojAssemblyReference.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.csproj.CoreCompileInputs.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.AssemblyInfoInputs.cache
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.AssemblyInfo.cs
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.csproj.CopyComplete
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
+E:\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.deps.json
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\bin\Debug\netcoreapp2.2\DIYPop-Ups.Entities.pdb
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.dll
+C:\Users\Admin\Desktop\.Net DIYPop-Ups with testscript\Code\DIY Pop-Ups\DIYPop-Ups\obj\Debug\netcoreapp2.2\DIYPop-Ups.DataLayer.pdb
